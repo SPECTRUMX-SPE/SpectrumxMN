@@ -16,7 +16,7 @@ chmod +x script.sh
 ```
 getnewaddress MN1
 ```
-- send 1.000 SPEs to this address and let atleast confirm by 1 blocks
+- send 25.000 SPEs to this address and let atleast confirm by 1 blocks
 - get the MN key and save in txt:
 ```
 masternode genkey
