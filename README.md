@@ -45,4 +45,10 @@ EXAMPLE: 38.25.122.251:34441 7NEGGttKZojkAzViEYXXXxKTFdAtC2uSiMg8NSFqYVBtN6mYdU 
 9. Save masternode.conf file reopen wallet, wait for sync and in masternodes tab click START ALL
 10. Atleast 22 blocks to be confirmed and start to work
 
+Check get info and masternode status in VPS using
+```
+/usr/local/bin/spectrumx-cli getinfo
+/usr/local/bin/spectrumx-cli masternode status
+```
+
 Enjoy :)
