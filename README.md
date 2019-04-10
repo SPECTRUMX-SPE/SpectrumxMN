@@ -1,7 +1,7 @@
 # SpectrumxMN
 Autoscript to make SpectrumXMN
 
-You will need a fresh VPS running Ubuntu Linux 16.04.6 x64 with atleast 1 GB RAM and 15 GBs free space
+You will need a fresh VPS running Ubuntu Linux 16.04 x64 with atleast 1 GB RAM and 15 GBs free space
 1. log into your VPS console and download the file: 
 ```
 git clone https://github.com/SPECTRUMXCOIN/SpectrumxMN.git
